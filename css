@@ -1,0 +1,15 @@
+body {
+  background-color: #fbf4f9;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.add-facts {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(253, 246, 246);
+  background-color: #000;
+}
